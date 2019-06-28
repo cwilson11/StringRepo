@@ -9,8 +9,7 @@ public class StringDemo {
 		
 		if(s1.equals(s2))
 		{
-			System.out.println("Identit"
-					+ "cal");
+			System.out.println("Identitcal");
 		}
 		else
 			System.out.println("Not Identical");
